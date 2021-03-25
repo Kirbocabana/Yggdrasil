@@ -1,0 +1,31 @@
+{
+//Items
+    "item.kirbo_yggdrasil.stone_rune": "Blank Stone Rune",
+    "item.kirbo_yggdrasil.animal_fat": "Animal Fat",
+    "item.kirbo_yggdrasil.primal_shard": "Primordial Shard",
+    "item.kirbo_yggdrasil.primal_rune": "Primordial Rune",
+    "item.kirbo_yggdrasil.dwarf_ingot": "Dwarven Steel Ingot",
+    "item.kirbo_yggdrasil.adamantite_ingot": "Adamantite Ingot",
+    "item.kirbo_yggdrasil.dwarf_nugget": "Dwarven Steel Nugget",
+    "item.kirbo_yggdrasil.adamantite_axe": "Adamantite Axe",
+    "item.kirbo_yggdrasil.adamantite_hoe": "Adamantite Hoe",
+    "item.kirbo_yggdrasil.adamantite_pickaxe": "Adamantite Pickaxe",
+    "item.kirbo_yggdrasil.adamantite_shovel": "Adamantite Shovel",
+    "item.kirbo_yggdrasil.adamantite_sword": "Adamantite Sword",
+    "item.kirbo_yggdrasil.animal_heart": "Animal Heart",
+    "item.kirbo_yggdrasil.bear_meat": "Raw Bear Meat",
+    "item.kirbo_yggdrasil.boar_meat": "Raw Boar Meat",
+    "item.kirbo_yggdrasil.cookedbear_meat": "Cooked Bear Meat",
+    "item.kirbo_yggdrasil.cookedboar_meat": "Cooked Boar Meat",
+    "item.kirbo_yggdrasil.polar_hide": "Polarbear Hide",
+    "item.kirbo_yggdrasil.wolf_hide": "Wolf Hide",
+    "item.kirbo_yggdrasil.ironviking_shield": "Iron Viking Shield",
+    "item.kirbo_yggdrasil.ironviking_sword": "Iron Viking Sword",
+    "item.kirbo_yggdrasil.rune_chisel": "Rune Chisel",
+//Blocks
+    "block.kirbo_yggdrasil.rift_block": "Dimensional Rift",
+    "block.kirbo_yggdrasil.ygg_bark": "Bark of Yggdrasil",
+    "block.kirbo_yggdrasil.ygg_hardwood": "Yggdrasil Hardwood",
+    "block.kirbo_yggdrasil.ygg_sapwood": "Yggdrasil Sapwood",
+    "block.kirbo_yggdrasil.rune_altar": "Runic Ritual Altar"
+}

@@ -1,0 +1,29 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="All rights reserved"
+
+[[mods]]
+modId="kirbo_yggdrasil"
+version="0.0.1"
+displayName="Yggdrasil"
+displayURL="https://github.com/Kirbocabana/Yggdrasil"
+logoFile="examplemod.png"
+credits="Thanks to all my friends that have given input in the creation of this mod."
+authors="Kirbocabana Author"
+description='''
+This is a mod that aims to bring the legends of Norse mythology to Minecraft. However, as accurate as I want to be, I also want to have fun, so I will be adding loads of other content to make the mod more mystical in nature!
+'''
+
+[[dependencies.kirbo_yggdrasil]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36,)"
+    ordering="NONE"
+    side="BOTH"
+    
+[[dependencies.kirbo_yggdrasil]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5,1.17)"
+    ordering="NONE"
+    side="BOTH"

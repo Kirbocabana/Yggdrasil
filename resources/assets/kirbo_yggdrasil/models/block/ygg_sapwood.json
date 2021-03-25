@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "kirbo_yggdrasil:blocks/ygg_sapwood"
+    }
+}

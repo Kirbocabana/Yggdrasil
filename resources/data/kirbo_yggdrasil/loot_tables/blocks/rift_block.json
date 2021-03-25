@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "name": "kirbo_yggdrasil:primal_shard",
+              "conditions": [
+                {
+                  "condition": "minecraft:match_tool",
+                  "predicate": {}
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

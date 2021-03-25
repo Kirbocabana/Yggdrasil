@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "kirbo_yggdrasil:blocks/altarside",
+    "north": "kirbo_yggdrasil:blocks/altarside",
+    "south": "kirbo_yggdrasil:blocks/altarside",
+    "east": "kirbo_yggdrasil:blocks/altarside",
+    "west": "kirbo_yggdrasil:blocks/altarside",
+    "up": "kirbo_yggdrasil:blocks/altartop",
+    "down": "kirbo_yggdrasil:blocks/altarbot"
+  }
+}
