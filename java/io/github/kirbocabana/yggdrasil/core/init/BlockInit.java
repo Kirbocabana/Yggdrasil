@@ -1,6 +1,8 @@
 package io.github.kirbocabana.yggdrasil.core.init;
 
 import io.github.kirbocabana.yggdrasil.Yggdrasil;
+import io.github.kirbocabana.yggdrasil.common.blocks.RuneAltarBlock;
+import io.github.kirbocabana.yggdrasil.common.blocks.SpigotBlock;
 import net.minecraft.block.AbstractBlock;
 import net.minecraft.block.Block;
 import net.minecraft.block.SoundType;
@@ -27,6 +29,8 @@ public class BlockInit {
 	public static final RegistryObject<Block> YGG_SAPWOOD = BLOCKS.register("ygg_sapwood", 
 			() -> new Block(AbstractBlock.Properties.of(Material.WOOD).strength(15f, 30f).sound(SoundType.WOOD).noDrops().randomTicks()));
 	
-	public static final RegistryObject<Block> RUNE_ALTAR = BLOCKS.register("rune_altar", 
-			() -> new Block(AbstractBlock.Properties.of(Material.STONE).strength(15f, 30f).sound(SoundType.WOOD)));
+	public static final RegistryObject<Block> RUNE_ALTAR = BLOCKS.register("rune_altar", () -> new RuneAltarBlock());
+	
+	public static final RegistryObject<Block> SPIGOT = BLOCKS.register("spigot", () -> new SpigotBlock());
+	
 }
