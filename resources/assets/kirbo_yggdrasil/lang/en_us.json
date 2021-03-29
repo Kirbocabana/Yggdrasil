@@ -1,5 +1,6 @@
 {
 //Items
+    "itemGroup.Yggdrasil": "Yggdrasil",
     "item.kirbo_yggdrasil.stone_rune": "Blank Stone Rune",
     "item.kirbo_yggdrasil.animal_fat": "Animal Fat",
     "item.kirbo_yggdrasil.primal_shard": "Primordial Shard",
@@ -22,6 +23,7 @@
     "item.kirbo_yggdrasil.ironviking_shield": "Iron Viking Shield",
     "item.kirbo_yggdrasil.ironviking_sword": "Iron Viking Sword",
     "item.kirbo_yggdrasil.rune_chisel": "Rune Chisel",
+    "item.kirbo_yggdrasil.ygg_sap": "Yggdrasil Sap",
 //Blocks
     "block.kirbo_yggdrasil.rift_block": "Dimensional Rift",
     "block.kirbo_yggdrasil.ygg_bark": "Bark of Yggdrasil",
